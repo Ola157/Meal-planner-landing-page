@@ -8,12 +8,12 @@ This is a responsive landing page for a fictional meal subscription service, **O
 
 ## 🚀 Features
 
-- ✅ Fully responsive layout
-- ✅ Clean and modern UI
-- ✅ Accessible HTML structure
-- ✅ Organized CSS files with BEM-style naming
-- ✅ Proper use of color contrast and spacing
-- ✅ Custom sections like testimonials, pricing, features, and call-to-action
+-  Fully responsive layout
+-  Clean and modern UI
+-  Accessible HTML structure
+-  Organized CSS files with BEM-style naming
+-  Proper use of color contrast and spacing
+-  Custom sections like testimonials, pricing, features, and call-to-action
 
 ## 🧱 Project Structure
 ```bash
@@ -43,9 +43,9 @@ meal-planner-landing-page/
 ## 📱 Responsiveness
 
 The layout adapts smoothly across devices:
-- 📱 Mobile
-- 💻 Tablet
-- 🖥️ Desktop
+- Mobile
+- Tablet
+- Desktop
 
 ## ♿ Accessibility
 
