@@ -16,7 +16,7 @@ This is a responsive landing page for a fictional meal subscription service, **O
 - ✅ Custom sections like testimonials, pricing, features, and call-to-action
 
 ## 🧱 Project Structure
-
+```bash
 meal-planner-landing-page/
 ├── css/
 │ ├── general.css
@@ -33,7 +33,7 @@ meal-planner-landing-page/
 │ ├── hero.png
 │ └── omnifood-logo.png
 └── index.html
-
+```
 
 ## 🛠️ Tech Stack
 
